@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import { books } from '../data';
+import { books } from '../data.js';
 
 class Books extends Component 
 {
-    constructor(props){
-        super(props);
-    }
+    // constructor () {
+    //     doSomething();
+    // }
 
     render(){
         return(
