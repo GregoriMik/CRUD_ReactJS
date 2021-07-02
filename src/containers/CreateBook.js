@@ -2,10 +2,10 @@ import React,{ Component }from 'react';
 import './CreateBook.css';
 
 class CreateBook extends Component {
-    // constructor(props)
-    // {
-    //     super(props);
-    // }
+    constructor(props)
+    {
+        super(props);
+    }
 
     render(){
         return (
